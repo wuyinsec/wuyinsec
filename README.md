@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laddzhao&show_icons=true&theme=flag-india)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laddzhao&repo=laddzhao.github.io&theme=flag-india)](https://github.com/laddzhao/laddzhao.github.io)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laddzhao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laddzhao&layout=compact)](https://github.com/laddzhao)
