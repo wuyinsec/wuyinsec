@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laddzhao&repo=laddzhao.github.io&theme=graywhite)](https://github.com/laddzhao/laddzhao.github.io)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laddzhao)](https://github.com/laddzhao)
+
+# 此网页总访客人数：
+![]( https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{laddzhao})
