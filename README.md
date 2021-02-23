@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laddzhao&show_icons=true&theme=flag-india)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laddzhao&show_icons=true&theme=graywhite)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laddzhao&layout=compact)](https://github.com/laddzhao)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laddzhao&repo=laddzhao.github.io&theme=flag-india)](https://github.com/laddzhao/laddzhao.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laddzhao&repo=laddzhao.github.io&theme=graywhite)](https://github.com/laddzhao/laddzhao.github.io)
