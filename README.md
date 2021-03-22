@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm laddzhao</h1>
 <h3 align="center">A The internet Lovers from China</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laddzhao" alt="laddzhao" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=laddzhao&no-frame=true)](https://github.com/laddzhao/github-profile-trophy)
 
 - 🔭 I’m currently working on **JavaScript**
 
